@@ -14,6 +14,9 @@ public class NewClass {
     public static void main(String[] args) {
         
         System.out.println("Bonjour Les amis");
+         System.out.println("Bonjour Les amis");
+                 System.out.println("Bonjour Les amis");
+
     }
     
 }
